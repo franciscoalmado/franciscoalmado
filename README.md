@@ -7,7 +7,8 @@
 - 😄 Pronouns: He.
 - ⚡ Fun fact: I’m a fan of Batman and Spiderman. I like pizza and going to the beach. I do not like the disorder.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoalmado)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoalmado&show_icons=true&theme=radical)
 
 <!--
 **franciscoalmado/franciscoalmado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
