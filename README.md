@@ -1,7 +1,7 @@
 ### Hi, I'm Francisco 👋
 
 - 🔭 I’m currently working on some academic projects to learn more about this world of web development.
-- 🌱 I’m currently learning about Java, Python, Javascript, HTML, CSS, Testing and Databases.
+- 🌱 I’m currently learning about Java, Python, Javascript, HTML, CSS, Databases and Testing.
 - 💬 Ask me about: I’m a web development student at UNLaM, living in Buenos Aires Argentina.
 - 📫 How to reach me: falmado@gmail.com
 - 😄 Pronouns: He.
