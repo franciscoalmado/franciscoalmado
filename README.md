@@ -7,7 +7,12 @@
 - 😄 Pronouns: He.
 - ⚡ Fun fact: I’m a fan of Batman and Spiderman. I like pizza and going to the beach. I do not like the disorder.
 
+My GitHub stats:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franciscoalmado&show_icons=true&theme=tokyonight)
+
+Technologies & tools:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoalmado&layout=compact)](https://github.com/franciscoalmado/github-readme-stats)
 
 <!--
