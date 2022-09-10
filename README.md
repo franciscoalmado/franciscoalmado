@@ -1,7 +1,7 @@
 ### Hi, I’m Francisco 👋
 
 - 💬 About me: I’m a web development student at UNLaM, living in Buenos Aires Argentina.
-- 👨🏻‍💻 I’m currently working on some academic projects to learn more about this world of web development.
+- 👨🏻‍💻 I’m currently working on some academic projects to learn more about this world of software development.
 - 🚀 I’m currently learning about Java, Python, Javascript, HTML, CSS, Databases and Testing.
 - 📫 How to reach me: falmado@gmail.com
 - 😄 Pronouns: He.
